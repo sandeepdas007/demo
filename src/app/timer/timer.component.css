@@ -1,0 +1,16 @@
+.timer {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: skyblue;
+    display: inline-block;
+   }
+   .haveTime {
+    color: green;
+   }
+   .lessTime {
+    color: orange;
+   }
+   .noTime {
+    color: red;
+   }
